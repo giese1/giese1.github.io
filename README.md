@@ -1,11 +1,11 @@
 # Cientista de dados
 
 
-### Educação
+## Educação
 Graduação: Ciencia de dados
 Pós graduação: Engenharia de inteligencia artificial
 
 
-### Experiencia
+## Projetos
 Projeto 1
 Projeto 2
