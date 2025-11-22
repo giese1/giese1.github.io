@@ -2,4 +2,4 @@ title: Mario Giese
 logo: /assets/img/imagem.jpg
 #description: text below image
 show_downloads: true
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
