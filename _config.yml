@@ -1,6 +1,6 @@
 title: Mario Giese
 logo: /assets/imagem.jpg
-#description: text below image
+description: text below image
 show_downloads: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
