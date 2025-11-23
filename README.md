@@ -7,8 +7,8 @@
 Graduação: Cruzeiro do sul - março 2020 a setembro 2022
 Pós graduação: Faculdade VINCIT
 
-##Experiencia
-** Analista de dados @ Volkswagen janeiro 2023 - março 2023
+## Experiencia
+**Analista de dados @ Volkswagen janeiro 2023 - março 2023
 Desenvolvi e implantei modelos de Machine Learning e soluções de Inteligência Artificial que contribuíram tecnicamente para aprimorar o controle de qualidade e a precisão dos processos de produção.
 Conduzi análises preditivas avançadas em ambientes de Big Data para o setor automotivo, traduzindo grandes volumes de dados em insights acionáveis para a gestão operacional.
 Implementei rotinas de Comparação Dimensional em subgrupos industriais, reduzindo a variabilidade e mitigando riscos de não conformidade no produto final.
