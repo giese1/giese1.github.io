@@ -4,10 +4,10 @@
 
 ## Educação
 
-Graduação: Cruzeiro do sul - março 2020 a setembro 2022
+**Graduação: Cruzeiro do sul - março 2020 a setembro 2022**
 
 
-Pós graduação: Faculdade VINCIT - setembro 2024 a março 2025
+**Pós graduação: Faculdade VINCIT - setembro 2024 a março 2025**
 
 ## Experiencia
 **Analista de dados @ Volkswagen janeiro 2023 - março 2023**
