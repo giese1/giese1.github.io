@@ -28,3 +28,5 @@ Otimizei a assertividade da tomada de decisão em áreas críticas da produção
 Forneci suporte analítico e técnico para a solução de problemas complexos relacionados a variações inesperadas no ciclo produtivo, utilizando Python e SQL como base de análise.
 
 
+## Projetos
+
