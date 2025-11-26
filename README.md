@@ -5,6 +5,8 @@
 ## Educação
 
 Graduação: Cruzeiro do sul - março 2020 a setembro 2022
+
+
 Pós graduação: Faculdade VINCIT
 
 ## Experiencia
