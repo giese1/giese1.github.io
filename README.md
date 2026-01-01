@@ -31,7 +31,7 @@ Forneci suporte analítico e técnico para a solução de problemas complexos re
 ## Projetos
 
 ### Previsão de fatores que contribuem para a satisfação ou dessatisfação de funcionarios
-[Link Projeto]()
+[Link Projeto](https://github.com/giese1/Projeto1/tree/main)
 
 Foi utilizado técnicas variadas de ciencia de dados e machine learning para identificar quais são os maiores fatores que influenciam na satisfação ou dessatisfação dos funcionarios em uma empresa.
 Foi concluido que os principais fatores que tem chance maior de demissão voluntaria são: viagens de trabalho frequentes, horas extras, e pessoas solteiras.
