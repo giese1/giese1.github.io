@@ -40,7 +40,7 @@ Foi concluido que os principais fatores que tem chance maior de demissão volunt
 Para mais detalhes, acesse o link acima.
 
 ### Previsão de Fraude em Criptomoedas usando XGBoost
-[Link Projeto](https://github.com/giese1/SatisfacaoFuncionarios/tree/main)
+[Link Projeto](https://github.com/giese1/FraudeCriptoMoedas)
 
 Este projeto detecta e preve fraudes financeiras na criptomoeda ethereum.
 
