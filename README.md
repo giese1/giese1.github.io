@@ -50,3 +50,13 @@ O modelo XGBoost teve 97% de acuracia nos dados de teste.
 
 Para mais detalhes, acesse o link acima.
 
+### Detecção de estado dos olhos
+[Link Projeto](https://github.com/giese1/DeteccaoEstadoOlhos)
+
+Este projeto contém dados sobre sensores EEG que detectam dois estados dos olhos do paciente: se eles estão abertos, ou fechados.
+
+Foi feito uma analise exploratoria extensiva de todos os atributos que detectam com maior facildade as variaveis target.
+
+O dataset tambem pode ser usado para modelos de machine learning
+
+Para mais detalhes, acesse o link acima.
