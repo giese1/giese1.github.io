@@ -1,16 +1,16 @@
 # Mario Giese
 
-#### Habilidades tecnicas: Python, SQL, AWS, Snowflake, MATLAB, Power BI, Excel, MongoDB, Pandas, SciKit Learn
+#### Habilidades técnicas: Python, SQL, AWS, Snowflake, MATLAB, Power BI, Excel, MongoDB, Pandas, SciKit Learn.
 
 ## Educação
 
-**Graduação: Cruzeiro do sul - março 2020 a setembro 2022**
+**Graduação: Cruzeiro do sul - março 2020 a setembro 2022.**
 
 
-**Pós graduação: Faculdade VINCIT - setembro 2024 a março 2025**
+**Pós graduação: Faculdade VINCIT - setembro 2024 a março 2025.**
 
 ## Experiencia
-**Analista de dados @ Volkswagen janeiro 2023 - março 2023**
+**Analista de dados @ Volkswagen janeiro 2023 - março 2023.**
 
 
 Desenvolvi e implantei modelos de Machine Learning e soluções de Inteligência Artificial que contribuíram tecnicamente para aprimorar o controle de qualidade e a precisão dos processos de produção.
@@ -30,7 +30,7 @@ Forneci suporte analítico e técnico para a solução de problemas complexos re
 
 ## Projetos
 
-### Previsão de fatores que contribuem para a satisfação ou dessatisfação de funcionarios
+### Previsão de fatores que contribuem para a satisfação ou dessatisfação de funcionarios.
 [Link Projeto](https://github.com/giese1/Projeto1/tree/main)
 
 Foi utilizado técnicas variadas de ciencia de dados e machine learning para identificar quais são os maiores fatores que influenciam na satisfação ou dessatisfação dos funcionarios em uma empresa.
@@ -42,11 +42,11 @@ Para mais detalhes, acesse o link acima.
 ### Previsão de Fraude em Criptomoedas usando XGBoost
 [Link Projeto](https://github.com/giese1/FraudeCriptoMoedas)
 
-Este projeto detecta e preve fraudes financeiras na criptomoeda ethereum.
+Este projeto detecta e prevê fraudes financeiras na criptomoeda ethereum.
 
-é utilizado técnicas de engenharia de atributos, pré processamento de dados e machine learning.
+É utilizado técnicas de engenharia de atributos, pré processamento de dados e machine learning.
 
-O modelo XGBoost teve 97% de acuracia nos dados de teste.
+O modelo XGBoost teve 97% de acurácia nos dados de teste.
 
 Para mais detalhes, acesse o link acima.
 
@@ -55,8 +55,19 @@ Para mais detalhes, acesse o link acima.
 
 Este projeto contém dados sobre sensores EEG que detectam dois estados dos olhos do paciente: se eles estão abertos, ou fechados.
 
-Foi feito uma analise exploratoria extensiva de todos os atributos que detectam com maior facildade as variaveis target.
+Foi feito uma analise exploratoria extensiva de todos os atributos que detectam com maior facildade as variáveis target.
 
-O dataset tambem pode ser usado para modelos de machine learning
+O dataset também pode ser usado para modelos de machine learning.
+
+Para mais detalhes, acesse o link acima.
+
+### Insights na area de saude em 2025
+[Link Projeto](https://github.com/giese1/InsightsSaude2025-2056)
+
+Este projeto contém dados sobre doenças e frequências de doenças em diferentes paises em 2025.
+
+Foi usado varios modelos de machine learning e deep learning, tambem foi feito uma analise exploratoria de parte dos atributos dos dados.
+
+O melhor modelo de machine learning foi o Gradient Boosting, com o R² score de 0.04.
 
 Para mais detalhes, acesse o link acima.
