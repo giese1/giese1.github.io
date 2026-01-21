@@ -9,7 +9,7 @@
 
 **Pós graduação: Faculdade VINCIT - setembro 2024 a março 2025.**
 
-## Experiencia
+## Experiência
 **Analista de dados @ Volkswagen janeiro 2023 - março 2023.**
 
 
@@ -30,12 +30,12 @@ Forneci suporte analítico e técnico para a solução de problemas complexos re
 
 ## Projetos
 
-### Previsão de fatores que contribuem para a satisfação ou dessatisfação de funcionarios.
+### Previsão de fatores que contribuem para a satisfação ou dessatisfação de funcionários.
 [Link Projeto](https://github.com/giese1/Projeto1/tree/main)
 
-Foi utilizado técnicas variadas de ciencia de dados e machine learning para identificar quais são os maiores fatores que influenciam na satisfação ou dessatisfação dos funcionarios em uma empresa.
+Foi utilizado técnicas variadas de ciência de dados e machine learning para identificar quais são os maiores fatores que influenciam na satisfação ou dessatisfação dos funcionários em uma empresa.
 
-Foi concluido que os principais fatores que tem chance maior de demissão voluntaria são: viagens de trabalho frequentes, horas extras, e pessoas solteiras.
+Foi concluido que os principais fatores que tem chance maior de demissão voluntária são: viagens de trabalho frequentes, horas extras, e pessoas solteiras.
 
 Para mais detalhes, acesse o link acima.
 
@@ -66,7 +66,7 @@ Para mais detalhes, acesse o link acima.
 
 Este projeto contém dados sobre doenças e frequências de doenças em diferentes paises em 2025.
 
-Foi usado varios modelos de machine learning e deep learning, tambem foi feito uma analise exploratoria de parte dos atributos dos dados.
+Foi usado vários modelos de machine learning e deep learning, tambem foi feito uma análise exploratória de parte dos atributos dos dados.
 
 O melhor modelo de machine learning foi o Gradient Boosting, com o R² score de 0.04.
 
