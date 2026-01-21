@@ -61,7 +61,7 @@ O dataset também pode ser usado para modelos de machine learning.
 
 Para mais detalhes, acesse o link acima.
 
-### Insights na area de saude em 2025
+### Insights na área de saúde em 2025
 [Link Projeto](https://github.com/giese1/InsightsSaude2025-2056)
 
 Este projeto contém dados sobre doenças e frequências de doenças em diferentes paises em 2025.
